@@ -9,11 +9,7 @@ const IndexPage = () => {
   return (
     <Layout pageTitle="Czarny Bez - strona główna">
       <main>
-        <div className={styles.hero}>
-          {/* <img src={logo} /> */}
-
-          {/* <p>Gramy w waszym mieście już w najbliższą niedzielę</p> */}
-        </div>
+        <div className={styles.hero}></div>
         <div className={styles.container}>
           <p>
             ... planetę okaleczyły kataklizmy o nieznanych wcześniej rozmiarach.
